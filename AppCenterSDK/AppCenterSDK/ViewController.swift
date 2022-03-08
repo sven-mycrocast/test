@@ -6,12 +6,17 @@
 //
 
 import UIKit
+import MycrocastSDK
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        Mycrocast.shared.start(apiKey: "aaaa", customerToken: "bbbbb") { streams, error in
+          print(error)
+        }
     }
 
 
