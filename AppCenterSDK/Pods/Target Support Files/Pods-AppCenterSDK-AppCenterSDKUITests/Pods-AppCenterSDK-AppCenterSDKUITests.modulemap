@@ -1,0 +1,6 @@
+framework module Pods_AppCenterSDK_AppCenterSDKUITests {
+  umbrella header "Pods-AppCenterSDK-AppCenterSDKUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
