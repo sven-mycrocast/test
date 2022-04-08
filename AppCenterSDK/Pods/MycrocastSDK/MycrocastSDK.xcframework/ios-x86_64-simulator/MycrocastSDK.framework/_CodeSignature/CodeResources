@@ -42,11 +42,15 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		FKseKX8sN+9UzmRCzVLEqmsztb8=
+		GcT9fq6X8iqvf3eDjVqeY+e/gU0=
 		</data>
 		<key>PrivateHeaders/config.h</key>
 		<data>
 		IBtinchF36fQyPJfNw0t7vGQb/8=
+		</data>
+		<key>PrivateHeaders/inttypes.h</key>
+		<data>
+		Q5DjfbD0SSw/11xgiPn8LT7/MnI=
 		</data>
 		<key>PrivateHeaders/log.h</key>
 		<data>
@@ -183,7 +187,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p3MqGACr9utnrm6oVMrcADa7VZudCon/0yZfG7y426U=
+			bNcxXdyE5iARsMfIqQkVgmz2VSZGtWlC21e7u+31qEU=
 			</data>
 		</dict>
 		<key>PrivateHeaders/config.h</key>
@@ -191,6 +195,13 @@
 			<key>hash2</key>
 			<data>
 			VQ62za77Nbq9LDhyq/vyPGqQGyB+W0/yBj2h2BCbKbY=
+			</data>
+		</dict>
+		<key>PrivateHeaders/inttypes.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lj8Fa/LgObLdKWq0ZGUSSFQ6IDvQRjzGyGF1Mrs0YLc=
 			</data>
 		</dict>
 		<key>PrivateHeaders/log.h</key>
