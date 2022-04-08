@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        dalnfl
+
         Mycrocast.shared.start(apiKey: "aaaa", customerToken: "bbbbb") { streams, error in
           print(error)
         }
