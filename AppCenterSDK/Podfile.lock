@@ -7,7 +7,7 @@ PODS:
   - MQTTClient/Manager (0.15.0):
     - MQTTClient/Min
   - MQTTClient/Min (0.15.0)
-  - MycrocastSDK (1.0.7):
+  - MycrocastSDK (1.0.8):
     - MQTTClient (= 0.15)
 
 DEPENDENCIES:
@@ -21,7 +21,7 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   MQTTClient: 8f68f0c22014110e964413a137b15e569aa7786f
-  MycrocastSDK: 3dba86e8f048fa8ac1cca5a3a09486043e035e5c
+  MycrocastSDK: 262bd01bf81ee6004f6bddf484bf03cee3768610
 
 PODFILE CHECKSUM: b1a7e79a55653d20b856e9f89e8b60fb3407f640
 

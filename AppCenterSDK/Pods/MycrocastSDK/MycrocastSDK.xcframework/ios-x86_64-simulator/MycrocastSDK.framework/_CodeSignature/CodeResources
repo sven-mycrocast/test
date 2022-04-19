@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		iLIveSSRp286tCNboFM7L8p69q8=
+		TW3RlmYmPjq5HQLG2xb3iB8atCw=
 		</data>
 		<key>Headers/MycrocastSDK-Swift.h</key>
 		<data>
-		xRomEz/A1I5OrQc1V3O74m9LhE8=
+		xONmgQOeMFvkvGA85Hp0sysSpTs=
 		</data>
 		<key>Headers/MycrocastSDK.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		w4kKy8P9gV//fvEivF8bt8mNkMM=
+		984ji/50nVAbXjPU1S9kpSx99Q4=
 		</data>
 		<key>Makefile.am</key>
 		<data>
@@ -30,15 +30,27 @@
 		</data>
 		<key>Modules/MycrocastSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		7xL49tszsyKs2sMNzQzyVF+pOAI=
+		RZvVIVnPY9f8NU7bOkCJma2USjo=
 		</data>
 		<key>Modules/MycrocastSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		6o7RE756v5oftCnLhSE2xT+xRdU=
+		t4PfNmdwMPIfSahgpILIO5H2VTo=
 		</data>
 		<key>Modules/MycrocastSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8dvK/0U01joaUwTvGhRt7IR4hR0=
+		E4aF6hVZCIKTRo9ugbYOJjPsryk=
+		</data>
+		<key>Modules/MycrocastSDK.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		RZvVIVnPY9f8NU7bOkCJma2USjo=
+		</data>
+		<key>Modules/MycrocastSDK.swiftmodule/x86_64.swiftinterface</key>
+		<data>
+		t4PfNmdwMPIfSahgpILIO5H2VTo=
+		</data>
+		<key>Modules/MycrocastSDK.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		E4aF6hVZCIKTRo9ugbYOJjPsryk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -131,14 +143,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o/G6/tL8frS5MzhqaacasDhUuoW1oBjlZ0UZ1UuMWdQ=
+			EtGie32oKSTe0Gf2KgtQd6JFEIbe/zkbF/hmOjUStfg=
 			</data>
 		</dict>
 		<key>Headers/MycrocastSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			th1n6DLx2iEH0DyE9oxaXkkttZBQKBzTN24Zig3eAQg=
+			aVL470i/HF1MqqHdxCuJbEAIauu6ZvXB8z2VuVrEydY=
 			</data>
 		</dict>
 		<key>Headers/MycrocastSDK.h</key>
@@ -166,21 +178,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q4hmpLeiRZ3iUiS+a+8Pa/DUB7QAYa0nj+IvqMIRDz8=
+			MLSoip/9T9QWKDZkdimt7z2EZyAtcOID666oFucowr8=
 			</data>
 		</dict>
 		<key>Modules/MycrocastSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			De0IjRSDx2Xwc3dw8+mKyZx4koCNvOglH4f517Srvkc=
+			4PVBynpiexGicSN7XJzq0QUc6U3imF13emBd0RHhlRs=
 			</data>
 		</dict>
 		<key>Modules/MycrocastSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Et+fgy9hHqZ8eicqWNE/FjnWrhRvrbDPlVb7qLIxnWc=
+			3qDA9o/vSd0KWwpGomINOItzzbQdCwdwt9fELzk0Qck=
+			</data>
+		</dict>
+		<key>Modules/MycrocastSDK.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MLSoip/9T9QWKDZkdimt7z2EZyAtcOID666oFucowr8=
+			</data>
+		</dict>
+		<key>Modules/MycrocastSDK.swiftmodule/x86_64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4PVBynpiexGicSN7XJzq0QUc6U3imF13emBd0RHhlRs=
+			</data>
+		</dict>
+		<key>Modules/MycrocastSDK.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3qDA9o/vSd0KWwpGomINOItzzbQdCwdwt9fELzk0Qck=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
